@@ -1,0 +1,18 @@
+[submodule "paikea-device-server"]
+	path = paikea-device-server
+	url = git@github.com:marcidy/paikea-device-server.git
+[submodule "paikea-firmware"]
+	path = paikea-firmware
+	url = git@github.com:marcidy/paikea-firmware.git
+[submodule "paikea-micropython-heltec"]
+	path = paikea-micropython-heltec
+	url = git@github.com:marcidy/paikea-micropython-heltec.git
+[submodule "paikea-pcb"]
+	path = paikea-pcb
+	url = git@github.com:marcidy/paikea-pcb.git
+[submodule "paikea-server-backend"]
+	path = paikea-server-backend
+	url = git@github.com:marcidy/paikea-server-backend.git
+[submodule "scout-firmware-binaries"]
+	path = scout-firmware-binaries
+	url = git@github.com:marcidy/scout-firmware-binaries.git
